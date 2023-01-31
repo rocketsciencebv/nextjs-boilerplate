@@ -2,7 +2,7 @@ import { Head, Html, Main, NextScript } from 'next/document';
 
 export default function Document() {
   return (
-    <Html lang="en" className="font-avenir">
+    <Html lang="en" className="font-avenir bg-black-default">
       <Head />
       <body>
         <Main />
